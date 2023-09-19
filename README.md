@@ -19,6 +19,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+  
 
 <h2>Installation Steps</h2>
 
