@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://i.imgur.com/Clzj7Xs.png](https://i.pcmag.com/imagery/reviews/066pfhdQmzHcmyEMaZtToWq-103.fit_scale.size_1028x578.v1691430001.png)" alt="osTicket logo"/>
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>ProtonVPN - Implementation and Installation</h1>
