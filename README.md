@@ -68,7 +68,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <img width="835" alt="Screenshot 2023-09-21 180022" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/46623bd7-a705-4bcf-8151-1817c4a1268d">
 </p>
 
-**_This is what RDP looks like on Windows. You'll use the username and password you created when you set up Windows in the VM, here._**
+
 
 <p>
 <img width="778" alt="Screen Shot 2023-06-25 at 12 24 54 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/650ba206-1435-4cbd-87a7-5622e959a694">
