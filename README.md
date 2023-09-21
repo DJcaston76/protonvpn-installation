@@ -76,10 +76,6 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 **_This is what RDP looks like on Windows. You'll use the username and password you created when you set up Windows in the VM, here.._**
 
-<p>
-<img width="746" alt="Screen Shot 2023-06-25 at 12 26 53 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/4834477e-e41c-47c8-bfd2-7356fa3a7d8b">
-</p>
-
 **_Under Internet Information Services, make sure to turn on Web Management Tools if they're not checked._**
 
 <br/>
