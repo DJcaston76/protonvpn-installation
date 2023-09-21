@@ -24,16 +24,17 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <h2>Installation Steps</h2>
 
 **Step 1: Create the VM within Microsoft Azure**
-- Create a resource group called "RG-osTicket"
-- Create a VM called "vm-osticket"
+- Create a resource group called "vpn-practice_group"
+- Create a VM called "vpn-pratice"
 - Use Windows 10 Pro, version 22H2 and Standard_D4s_v3 - 4cpus, 16 GiB memory
-- Make sure it auto populates to "RG-osTicket" for its resource group before the "Review and Create" step
+- Make sure it auto populates to "vpn-practice_group" for its resource group before the "Review and Create" step
+- Make sure to choose a region you don't live in
 - Note the username and password you're creating for Windows 10
 
 <br/>
 
 <p>
-<img width="812" alt="Screen Shot 2023-06-25 at 12 16 22 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/c17f13b1-04be-4c8d-ba37-f9db0340b4db"></p>
+<img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/0423ef29-2e5d-4431-b8ce-d0043b1bc352"></p>
 
 **_These are the settings you can use to create your VM, depending on your location. Use a different location, if necessary._**
 
