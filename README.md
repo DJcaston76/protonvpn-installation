@@ -84,34 +84,30 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <br/>
 
-**Step 4: Test IIS**
-- Open a web broswer tab and type in "127.0.0.1"
-- To ensure IIS enabled, you should see something similar to the browser on the right, below
+**Step 4: Find IP Address of the Virtual Machine**
+- Open a web broswer and search "WhatIsMyIPAddress.com"
+- If done correctly you should be given a new IP Address inside of the virtual machine
 <br/>
 
 <p>
-<img width="797" alt="Screen Shot 2023-06-26 at 10 03 05 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/3ad1c78e-d865-4149-a072-accd8a18f869">
+<img width="797" alt="Screenshot 2023-09-21 181005" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/302718f5-3b91-44e6-9e1b-c74c239816a4">
 </p>
 
-**_Visit 127.0.0.1 in the browser. After installing IIS, it should look like the one on the right._**
+****
 
 <br/>
 
-**Step 5: Install the Requirements**
-- Make sure to override any additional security prompts if you see them
-- Download and install PHP Manager for IIS
-- Download and install Rewrite Module
-- Create C:\PHP directory by going to C: Drive > Right click > New > Folder > name it "PHP"
-- Download PHP 7.3.8 files (be on the look for any extra prompts) > Right click > Extract All > Browse to the "PHP" folder > Extract
-- Download and install VC Redistributable
+**Step 5: Install Proton VPN**
+- Create a new account within Proton VPN
+- Download and install Proton VPN for your apporiate OS
 
 <br/>
 
 <p>
-<img width="935" alt="Screen Shot 2023-06-26 at 4 54 13 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/0da5b2b3-1750-4f49-8c4c-69e371bfff67">
+<img width="935" alt="Screenshot 2023-09-21 181534" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/5bc59eae-deca-47fc-a9e8-d31d058d6593">
 </p>
 
-**_When you're installing files, you'll need to accept their terms and make sure you download files onto your VM._**
+**_When you're installing Proton VPN, you'll need to accept all of their terms._**
 
 <br/>
 
