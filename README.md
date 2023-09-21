@@ -59,7 +59,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 **_This is one way to find your current IP Address._**
 
 **Step 3: Log into the VM via RDP**
-- Copy the Private IP Address from the VM (Virutal Machines > "vpn-pratice" > copy Public IP address)
+- Copy the Public IP Address from the VM (Virutal Machines > "vpn-pratice" > copy Public IP address)
 - Log in, using your Windows 10 username and password
 
 <br/>
@@ -71,7 +71,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 ****
 
 <p>
-<img width="778" alt="Screen Shot 2023-06-25 at 12 24 54 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/650ba206-1435-4cbd-87a7-5622e959a694">
+<img width="778" alt="Screenshot 2023-09-21 180601" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/5caf5a59-75af-49f2-a558-24a70e7f4f2e">
 </p>
 
 **_This is what RDP looks like on Windows. You'll use the username and password you created when you set up Windows in the VM, here.._**
