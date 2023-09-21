@@ -117,7 +117,13 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <p>
 <img width="500" alt="Screenshot 2023-09-21 182419" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/fff4b80f-8a12-442a-b918-9f857e2d2875">
 
-**_Make sure you launch the Configuration Wizard after installing MySQL._**
+****
+</p>
+
+<p>
+<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/4bd27ebe-7c88-48e5-a457-3ad24ccae00c">
+
+**Awesome! You've succesfully connected to a VPN**
 </p>
 
 <br/>
