@@ -47,28 +47,28 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <br/>
 
-**Step 2: Log into the VM via RDP**
-- Copy the Public IP Address from the VM (Virutal Machines > "vm-osticket" > copy Public IP address)
+**Step 2: Find current IP Address**
+- Take not of the Public IPv4 Address from (WhatIsMyIPAddress.com)
+
+<br/>
+
+<p>
+<img width="835" alt="Screenshot 2023-09-21 175422" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/dddfee24-fac9-4122-8cb5-8304f2962a34">
+</p>
+
+**_This is one way to find your current IP Address._**
+
+**Step 3: Log into the VM via RDP**
+- Copy the Private IP Address from the VM (Virutal Machines > "vpn-pratice" > copy Public IP address)
 - Log in, using your Windows 10 username and password
 
 <br/>
 
 <p>
-<img width="835" alt="Screen Shot 2023-06-25 at 12 21 31 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/16904f4f-b371-4903-9719-703e74ffea4c">
+<img width="835" alt="Screenshot 2023-09-21 180022" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/46623bd7-a705-4bcf-8151-1817c4a1268d">
 </p>
 
-**_This what RDP looks like on a Mac. You'll use the username and password you created when you set up Windows in the VM, here._**
-
-<br/>
-
-**Step 3: Enable Internet Information Services (IIS)**
-- Open IIS from the start menu (Right click start menu > Run > type in "control" > Programs > Programs and Features > Turn Windows Features on or off
-- Under IIS > make sure Web Management Tools is enabled
-- Under IIS > World Wide Web Services > Application Development Features, turn on CGI
-- Under IIS > World Wide Web Services > Common HTTP Features, turn on all of the options here
-- Click OK and allow it to install
-
-<br/>
+**_This is what RDP looks like on Windows. You'll use the username and password you created when you set up Windows in the VM, here._**
 
 <p>
 <img width="778" alt="Screen Shot 2023-06-25 at 12 24 54 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/650ba206-1435-4cbd-87a7-5622e959a694">
