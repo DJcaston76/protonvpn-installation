@@ -123,55 +123,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <p>
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/4bd27ebe-7c88-48e5-a457-3ad24ccae00c">
 
-**Awesome! You've succesfully connected to a VPN**
+**_Awesome! You've succesfully connected to a VPN._**
 </p>
-
-<br/>
-
-**Step 7: Make Changes in the IIS Admin Panel**
-- Search for IIS > Right click it to run it as admin
-- At the "vm-osticket" level, open the PHP Manager > Select a principal > browse to and open the "php.cgi" file
-- At rhe "vm-osticket" level, restart the server from the right sidebar menu
-
-<br/>
-
-<p>
-<img width="1039" alt="Screen Shot 2023-06-25 at 12 45 47 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/01d2b90c-94cc-4d71-84fb-3925afb9ca70">
-</p>
-
-**_Click "Register new PHP version"._**
-
-<br/>
-
-**Step 8: Install osTicket Files and Set Up Installer**
-- Download osTicket files
-- Open a 2nd file explorer window, navigate to C: > inetpub > wwwroot
-- Drag the "Upload" folder from the osTicket files to "wwwroot" to copy files over
-- Rename the file, from "Upload" to "osTicket"
-- At rhe "vm-osticket" level in the admin for IIS, restart the server from the right sidebar menu again
-- Navigate to Sites > Default > osTicket
-- From the right sidebar, click "Browse *:80"
-
-<br/>
-
-<img width="1230" alt="Screen Shot 2023-06-25 at 12 47 14 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/1a13b8ef-070e-485d-aec7-277af282d283">
-
-**_Drag the "Upload" folder over to "wwwroot" and rename it to "osTicket"._**
-
-<img width="1036" alt="Screen Shot 2023-06-25 at 12 54 11 PM" src="https://github.com/yeahglo/osticket-prereqs/assets/91516100/8138f47e-57a8-4fd3-bc92-f5f140847e6c">
-
-**_Click "Browse *:80" on the right sidebar so that it opens in the web browser._**
-
-<br/>
-
-**Step 9: Enabling PHP Extensions and Configuring File Permissions**
-- Navigate back Sites > Default > osTicket in the admin IIS panel
-- Open PHP Manager at this level and scroll down to click "Enable or disable an extension"
-- Enable the following 3 extensions: php_imap.dll, php_intl.dll, and php.opcache.dll
-- Refresh the osTicket Installer in your browser _(Note: you should see more checkmarks where it lists the extensions.)_
-- Navigate to your C: Drive > inetpub > wwwroot > osTicket > Include > ost-sampleconfig.php
-- Remove the "sample" part of the name, so that it reads "ost-config.php"
-- Right click on the folder > Advanced > Disable Inheritance > Remove All
-- Set New Permissions > Everyone (click "Check Names" to populate) > Check Full Control so that it applies all permissions
 
 <br/>
